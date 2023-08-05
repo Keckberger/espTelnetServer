@@ -43,7 +43,6 @@ void setup()
 
   server.begin();
   server.setNoDelay(true);
-
 }
 
 void loop() {
@@ -71,6 +70,4 @@ void loop() {
     }
     
   }
-
-
 }
