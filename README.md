@@ -8,3 +8,6 @@ I tested the code on my ESP-01 Wifi module and ESP32-Cam.
 
 Important for the ESP-01. Use an external power source!
 First i tried to use the FTL USB Programer which also provides 3.3V but it resulted in very strange behavior.
+
+right now, the server only accepts commands but is not returning anything to the client.
+This will be added in the future.
